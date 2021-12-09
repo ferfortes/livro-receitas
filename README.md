@@ -7,3 +7,5 @@ Olá, bem vindo ao nosso livro de receitas.
 - #### Pave
 
 - #### Feijoada
+
+- #### Couve mineira
